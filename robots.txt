@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /occasions-of-jasper/thank-you.html
+Sitemap: https://braydenweinel14-dot.github.io/occasions-of-jasper/sitemap.xml
